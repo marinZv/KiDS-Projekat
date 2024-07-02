@@ -1,0 +1,6 @@
+pause 200000
+remove_file fajl.txt
+quit_node
+pause 50000
+pause 500000
+stop

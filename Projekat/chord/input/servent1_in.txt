@@ -1,0 +1,6 @@
+pause 51000
+add_friend localhost 1600
+pause 40000
+view_file localhost 1600
+pause 500000
+stop

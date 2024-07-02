@@ -1,0 +1,5 @@
+pause 60000
+pause 100000
+stop
+pause 500000
+stop

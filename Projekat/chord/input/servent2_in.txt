@@ -1,0 +1,6 @@
+pause 30000
+add_file jafl.txt private
+pause 40000
+view_file localhost 1600
+pause 500000
+stop
